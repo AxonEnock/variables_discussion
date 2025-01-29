@@ -26,11 +26,14 @@
 
 # EX
 # a = 10     # a is an integer
-# a = "Now a string"  # Now a is a string
+# a = "Now is a string"  # Now a is a string
 # a = 3.5    # Now a is a float
 
 # This is different from statically typed languages like Java or C, 
 # where you must declare types explicitly.
+
+
+
 
 
 
@@ -196,3 +199,4 @@
 
 
 
+#Asht that it for variables.
